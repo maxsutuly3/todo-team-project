@@ -1,0 +1,5 @@
+2. Пусть Владислав сделает свою часть:
+
+откроет репозиторий и создаст ветку feature/TASK-10-docs от develop;
+загрузит файлы папки docs двумя коммитами (Add file → Upload files): сначала git_guide.md и trello_cards.md, потом .csv и .png;
+откроет pull request в develop (base именно develop).
